@@ -1,0 +1,12 @@
+Domain : Dotnet
+Application tool : Visual Studio 2022
+Database : SQL server 2008
+
+Platform : ASP.Net Webforms
+Connectivity : ADO.Net
+API Call : Web service for service call
+Scripting : front end jquery and ajax call
+
+Result files
+Application Solution
+Database Backup file(Just restore the database in your SQL server).
